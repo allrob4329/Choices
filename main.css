@@ -1,0 +1,27 @@
+@charset "utf-8";
+#Header {
+	width: 1024px;
+	height: 73px;
+}
+#text {
+	background-color: #FFFFFF;
+	width: 640px;
+	float: left;
+
+
+}
+#container {
+	width: 1024px;
+}
+#footer {
+	width: 984px;
+	clear: both;
+}
+h1 {
+	color: #E90105;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+p {
+	color: #03089B;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+}
